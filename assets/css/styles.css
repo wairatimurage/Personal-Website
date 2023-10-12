@@ -558,7 +558,7 @@ img {
   .home_img svg {
     padding-top: 30px;
     padding-left: 30px;
-    max-width: 300px; /* Adjust the max-width to your desired size */
+    max-width: 250px; /* Adjust the max-width to your desired size */
     width: 100%;
   }
 
