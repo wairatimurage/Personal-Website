@@ -429,7 +429,7 @@ img {
 
   .section-title::after {
     width: 60px; /* Adjust the width of the section title underline for smaller screens */
-    top: 7rem; /* Adjust the position of the section title underline for smaller screens */
+    top: 5rem; /* Adjust the position of the section title underline for smaller screens */
   }
 
   .nav_items {
