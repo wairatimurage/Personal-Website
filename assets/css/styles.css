@@ -423,7 +423,7 @@ img {
 
 @media screen and (min-width: 600px) {
   .button {
-    width: 60%;
+    width: 30%;
     display: inline-block;
     color: #fff;
     padding: 1rem 2.5rem;
@@ -538,7 +538,7 @@ img {
   .home_social-icon {
     display: flex;
     margin-bottom: 0;
-    margin-right: var(--mb-4);
+    margin-right: 0;
   }
 
   .home_img,
