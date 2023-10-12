@@ -421,7 +421,7 @@ img {
   margin: 0 var(--mb-2);
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (min-width: 600px) {
   .section {
     padding-top: 2rem; /* Adjust padding for smaller screens */
     padding-bottom: 1.5rem; /* Adjust padding for smaller screens */
