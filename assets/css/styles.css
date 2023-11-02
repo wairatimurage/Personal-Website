@@ -206,10 +206,14 @@ img {
 }
 
 .home_social-icon {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px; 
   width: max-content;
   margin-bottom: var(--mb-2);
-  font-size: 1.5rem;
+  font-size: 3rem;  
   color: var(--second-color);
+ 
 }
 
 .home_social-icon:hover {
