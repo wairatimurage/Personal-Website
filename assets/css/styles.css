@@ -392,7 +392,7 @@ img {
   display: block;
   border: none;
   outline: none;
-  font-size: var(--nomral-font-size);
+  font-size: var(--normal-font-size);
   cursor: pointer;
   margin-left: auto;
 }
@@ -423,7 +423,7 @@ img {
 
 @media screen and (min-width: 600px) {
   .button {
-    width: 30%;
+    width: 15%;
     display: inline-block;
     color: #fff;
     padding: 1rem 2.5rem;
@@ -484,7 +484,7 @@ img {
     margin: 0;
   }
   .button {
-    width: 15%;
+    width: 30%;
     display: inline-block;
     color: #fff;
     padding: 1rem 2.5rem;
